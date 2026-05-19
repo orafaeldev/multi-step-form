@@ -61,7 +61,7 @@ This project was developed using modern React technologies, keeping external dep
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/orafael93/substep-form.git
+git clone https://github.com/orafaeldev/substep-form.git
 cd substep-form-frontend-mentor
 ```
 
