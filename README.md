@@ -96,4 +96,4 @@ The optimized files will be generated in the `dist/` folder.
 **Rafael**
 
 -   Email: orafaeldev@gmail.com
--   GitHub: [@orafael93](https://github.com/orafael93)
+-   GitHub: [@orafaeldev](https://github.com/orafaeldev)
